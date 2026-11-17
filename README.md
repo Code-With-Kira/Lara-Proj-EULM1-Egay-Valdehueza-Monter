@@ -306,7 +306,6 @@ The following screenshots can be used to show the appearance and functionality o
 
 ![Lakbay Pilipinas Contact Page](images/contact.png)
 
-*Replace the example image paths above with the actual screenshot filenames in the repository.*
 
 ---
 

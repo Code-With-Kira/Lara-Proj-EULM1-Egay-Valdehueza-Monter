@@ -127,7 +127,7 @@ return [
             'name' => 'Jiefhox G. Monter',
             'responsibility' => 'Contact page module and its demo form.',
             'avatar_class' => 'avatar-three',
-            'image' => 'jiephox.png',
+            'image' => 'jiefhox.png',
             'image_position' => 'center 5%',
             'image_scale' => 1.12,
         ],

@@ -13,8 +13,8 @@
 | Framework | Laravel 13 |
 | Language | PHP, HTML, CSS, JavaScript |
 | Repository | Lara-Proj-EULM1-Egay-Valdehueza-Monter |
-| Section | [Your Section] |
-| Group Members | [Insert Group Members' Names] |
+| Section | IT110-EULM1 |
+| Group Members | Laurence Paul Jigger R. Egay, Aldis Valdehueza, Jeifhox Monter |
 
 ---
 
@@ -296,15 +296,15 @@ The following screenshots can be used to show the appearance and functionality o
 
 ### Home Page
 
-![Lakbay Pilipinas Home Page](screenshots/home.png)
+![Lakbay Pilipinas Home Page](images/home.png)
 
 ### About Page
 
-![Lakbay Pilipinas About Page](screenshots/add-about-here.png)
+![Lakbay Pilipinas About Page](images/about.png)
 
 ### Contact Page
 
-![Lakbay Pilipinas Contact Page](screenshots/add-contact-here.png)
+![Lakbay Pilipinas Contact Page](images/contact.png)
 
 *Replace the example image paths above with the actual screenshot filenames in the repository.*
 

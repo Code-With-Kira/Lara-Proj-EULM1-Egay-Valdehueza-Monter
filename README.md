@@ -296,15 +296,15 @@ The following screenshots can be used to show the appearance and functionality o
 
 ### Home Page
 
-![Lakbay Pilipinas Home Page](images/home.png)
+![Lakbay Pilipinas Home Page](screenshots/home.png)
 
 ### About Page
 
-![Lakbay Pilipinas About Page](images/about.png)
+![Lakbay Pilipinas About Page](screenshots/about.png)
 
 ### Contact Page
 
-![Lakbay Pilipinas Contact Page](images/contact.png)
+![Lakbay Pilipinas Contact Page](screenshots/contact.png)
 
 
 ---
